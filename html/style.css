@@ -14,6 +14,7 @@ h2 {
   font-family: fantasy;
   font-size: 70px;
 }
+
 .FotoRowlet {
   background-color: #21AD8A; /* colore di sfondo */
   font-family: fantasy;
@@ -30,6 +31,16 @@ h2 {
   font-size: 75px;
   color:black
   
+}
+.titoletto2{
+  text-align: center;
+  font-family: fantasy;
+  font-size: 50px;
+  color:black;
+  margin-left: 0;
+}
+.tipi{
+  align-items: center;
 }
 .Erba{
   color: black;
@@ -50,4 +61,10 @@ h2 {
   padding: 8px 16px;        /* spazio interno tra testo e bordo */
   border-radius: 10px;      /* arrotonda gli angoli */
   font-size: 30px;
+}
+.centro{
+  text-align: center;
+}
+.formato{
+  font-family:'Times New Roman', Times, serif;
 }
