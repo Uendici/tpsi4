@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: rgb(7, 171, 236);
+  text-align: center;
+  font-family: fantasy;
+  font-size: 70px;
+}
+h2 {
+  color: rgb(16, 180, 10);
+  text-align: center;
+  font-family: fantasy;
+  font-size: 70px;
+}
+.FotoRowlet {
+  background-color: #21AD8A; /* colore di sfondo */
+  font-family: fantasy;
+  text-align: center;       /* centra l'immagine e il testo */
+  display: inline-block;    /* fa sì che il bordo si adatti al testo */
+  padding: 8px 16px;        /* spazio interno tra testo e bordo */
+  border: 2px solid black;  /* spessore, tipo e colore del bordo */
+  border-radius: 10px;      /* arrotonda gli angoli */
+  font-size: 30px;
+}
+.titoletto{
+  text-align: center;
+  font-family: fantasy;
+  font-size: 75px;
+  color:black
+  
+}
+.Erba{
+  color: black;
+  background-color: rgb(16, 180, 10); /* colore di sfondo */
+  font-family: fantasy;
+  text-align: center;       /* centra l'immagine e il testo */
+  display: inline-block;    /* fa sì che il bordo si adatti al testo */
+  padding: 8px 16px;        /* spazio interno tra testo e bordo */
+  border-radius: 10px;      /* arrotonda gli angoli */
+  font-size: 30px;
+}
+.Volante{
+  color: black;
+  background-color: #1be1f0; /* colore di sfondo */
+  font-family: fantasy;
+  text-align: center;       /* centra l'immagine e il testo */
+  display: inline-block;    /* fa sì che il bordo si adatti al testo */
+  padding: 8px 16px;        /* spazio interno tra testo e bordo */
+  border-radius: 10px;      /* arrotonda gli angoli */
+  font-size: 30px;
+}
